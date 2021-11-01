@@ -1,0 +1,18 @@
+Create reports - Scheduled report information can be set even if the "Scheduled" checkbox is not checked
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Fill in the information for "Scheduled" report without checking "Scheduled" checkbox
+
+[Expected result]:
+The information cannot be set for the report without checking "Scheduled" checkbox
+
+[Actual result]:
+The information can be set without checking the "Scheduled" checkbox
+
+[Additional information]:
+Screenshot added (See folder BUG_Screenshots - Picture9)

@@ -1,0 +1,19 @@
+Create reports - Dropdown option can be edited
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Select an item from the dropdown menu
+4. Click on the selected option and try to edit it by writing something
+
+[Expected result]:
+You cannot modify a dropdown selection
+
+[Actual result]:
+The dropdown selection can be modified by writing anything into it
+
+[Additional information]:
+Screenshot added (See folder BUG_Screenshots - Picture3)

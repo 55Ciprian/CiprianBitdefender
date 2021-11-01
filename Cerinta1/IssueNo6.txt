@@ -1,0 +1,19 @@
+Create reports - Day can be selected when reccurence is set on daily
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Select "Daily" reccurence
+4. Open "On" dropdown
+
+[Expected result]:
+No option can be selected, since reccurence is set on daily
+
+[Actual result]:
+The options are all available to select even if reccurence is set on daily
+
+[Additional information]:
+Screenshot added (See folder BUG_Screenshots - Picture6)

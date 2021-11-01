@@ -1,0 +1,20 @@
+Create reports - Wrong tooltip for "Select company" dropdown
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Check that all the fields have the same format
+
+[Expected result]:
+All the fields have the same format
+
+[Actual result]:
+The "Select company" tooltip is wrong
+
+[Additional information]:
+"Select company" should be the tooltip for this section ( now the tooltip is "Select Company")
+All the tooltips should have the same format, with the second word starting with lower case letter
+Screenshot added (See folder BUG_Screenshots - Picture4)

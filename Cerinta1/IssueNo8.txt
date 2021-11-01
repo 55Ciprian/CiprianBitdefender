@@ -1,0 +1,18 @@
+Create reports - Report name can start with space characters
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Fill in the report "Name" field starting with spaces
+
+[Expected result]:
+The report name cannot start with space characters
+
+[Actual result]:
+The report name can start with space characters
+
+[Additional information]:
+Screenshot added (See folder BUG_Screenshots - Picture8)

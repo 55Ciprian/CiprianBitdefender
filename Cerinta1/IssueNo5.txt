@@ -1,0 +1,18 @@
+Create reports - Wrong tooltip for "Enter name" field
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Check that all the fields have the same format
+
+[Expected result]:
+All the fields have the same format
+
+[Actual result]:
+The "Enter name" tooltip is bolded
+
+[Additional information]:
+Screenshot added (See folder BUG_Screenshots - Picture5)

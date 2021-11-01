@@ -1,0 +1,20 @@
+Create reports - The report can be saved without filling in any field 
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Press "SAVE" button without filling in any information
+
+[Expected result]:
+The report should not be saved empty
+
+[Actual result]:
+The report is saved successfully even if no information was filled in
+
+[Additional information]:
+The page contains no mandatory fields, but a report should contain some information (Some fields should be mandatory)
+Let's assume you have an empty report, but you don't even have the settings set(Export now or Scheduled), so we don't even know when the report should be created
+Screenshot added (See folder BUG_Screenshots - Picture11)

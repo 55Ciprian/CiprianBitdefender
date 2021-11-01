@@ -1,0 +1,19 @@
+Create reports - Scheduled report information can be set even if the settings are set on "Export now" option
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Select "Export now" checkbox
+4. Try to fill in the information for "Scheduled" report
+
+[Expected result]:
+The information cannot be set for "Scheduled" report while the "Export now" is active
+
+[Actual result]:
+The reccurence can be set even if "Scheduled" checkbox is not checked and the report is set to be exported now
+
+[Additional information]:
+Screenshot added (See folder BUG_Screenshots - Picture7)

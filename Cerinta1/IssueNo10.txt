@@ -1,0 +1,19 @@
+Create reports - The reports are not displayed after being saved
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. Fill in all the fields correctly and save the report
+4. Close the "Create report" page and return to main page
+
+[Expected result]:
+The reports should be displayed on the main page
+
+[Actual result]:
+The main page message is "You don't have any reports defined yet" even if you added some reports
+
+[Additional information]:
+Screenshot added (See folder BUG_Screenshots - Picture10)

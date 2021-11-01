@@ -1,0 +1,20 @@
+Create reports - Unable to select other "Reccurence" after one reccurence is set
+
+[Initial state]:
+URL page: https://test-bitdef.web.app/reports
+
+[Steps to reproduce]:
+1. Go to the given url
+2. Click on "CREATE REPORT" button
+3. From the "Reccurence" dropdown select one reccurence (for example "Daily")
+4. From the "Reccurence" dropdown change the reccurence into "Weekly" after "Daily" option was selected
+
+[Expected result]:
+The reccurence is successfully changed
+
+[Actual result]:
+The reccurence cannot be changed, other reccurences are not displayed inside dropdown select after one reccurence has been set
+
+[Additional information]:
+You can change the reccurence by deleting the dropdown option and selecting again, but that's not how it should work
+Screenshot added (See folder BUG_Screenshots - Picture2)
