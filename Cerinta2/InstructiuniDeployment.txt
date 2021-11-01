@@ -1,0 +1,10 @@
+Steps to run the test with testcafe
+I have used Sublime test to write the test, you don't have to install it.
+
+1. Install Git Bash
+2. Install Node.js 
+3. Right click in the folder test and use "Git Bash" here
+4. Make sure you have npm installed (npm install -g npm in command line) - I have 8.1.2 version installed
+5. Install testcafe (npm install -g testcafe in command line)
+6. In the Git Bash use "testcafe chrome CreateReport.test.js" command to run the test
+7. Enjoy :D 
